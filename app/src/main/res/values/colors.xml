@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d997d</color>
+    <color name="colorPrimaryDark">#167c65</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windows_bg">#efefef</color>
+</resources>
